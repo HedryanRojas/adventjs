@@ -1,4 +1,4 @@
-# Challenge #1: First Gift Repeated!
+# Challenge #5: Shoe Pairing 
 
 ## 🔢 Instructions
 
