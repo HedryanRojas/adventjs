@@ -1,4 +1,4 @@
-# Challenge #1: Organizing the inventory
+# Challenge #3: Organizing the inventory
 
 ## 🔢 Instructions
 
