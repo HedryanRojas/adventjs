@@ -1,4 +1,4 @@
-# Challenge #1: Decorating the Christmas tree
+# Challenge #4: Decorating the Christmas tree
 
 ## 🔢 Instructions
 
