@@ -1,4 +1,4 @@
-# Challenge #8: The reno race
+# Challenge #9: The magical train
 
 ## 🔢 Instructions
 
